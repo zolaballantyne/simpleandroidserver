@@ -22,3 +22,5 @@ Interstitial ads (dimensions):
 You can choose whether you want to be charged based on CPC (*Cost per Click*) or CPM (*per thousand impressions*) but whichever choice you make, you will be billed **$0.15** for banner ads and **0.18** for interstitial ads per event.
 
 Reports will be sent to your email weekly or monthly or even daily depending on your preference.
+
+Thanks!
