@@ -9,7 +9,7 @@ name: Simple Android Server
 description: A moble proxy server app
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/ic_launcher.png
+avatar: http://zolaballantyne.github.io/simpleandroidserver/images/ic_launcher.png
 #
 # Flags below are optional
 #
