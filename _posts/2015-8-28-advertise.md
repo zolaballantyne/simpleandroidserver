@@ -19,7 +19,7 @@ Interstitial ads (dimensions):
 <li>(480 X 60)</li>
 </ul>
 
-You can choose whether you want to be charged based on CPC (*Cost per Click*) or CPM (*per thousand impressions*) but whichever choice you make, you will be billed **$0.15** for banner ads and **0.18** for interstitial ads per event.
+You can choose whether you want to be charged based on CPC (*Cost per Click*) or CPM (*per thousand impressions*) but whichever choice you make, you will be billed **₦700 per day** for banner ads and **₦800 per day** for interstitial ads per event.
 
 Reports will be sent to your email weekly or monthly or even daily depending on your preference.
 
